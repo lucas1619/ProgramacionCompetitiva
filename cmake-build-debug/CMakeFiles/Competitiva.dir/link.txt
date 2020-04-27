@@ -1,1 +1,1 @@
-/usr/lib64/ccache/c++  -g   CMakeFiles/Competitiva.dir/main.cpp.o  -o Competitiva 
+/usr/lib64/ccache/c++  -g   CMakeFiles/Competitiva.dir/sub1300/AddingDigits.cpp.o  -o Competitiva 

@@ -57,27 +57,27 @@ include CMakeFiles/Competitiva.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Competitiva.dir/flags.make
 
-CMakeFiles/Competitiva.dir/main.cpp.o: CMakeFiles/Competitiva.dir/flags.make
-CMakeFiles/Competitiva.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lucasmoreno/CLionProjects/Competitiva/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Competitiva.dir/main.cpp.o"
-	/usr/lib64/ccache/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitiva.dir/main.cpp.o -c /home/lucasmoreno/CLionProjects/Competitiva/main.cpp
+CMakeFiles/Competitiva.dir/sub1300/AddingDigits.cpp.o: CMakeFiles/Competitiva.dir/flags.make
+CMakeFiles/Competitiva.dir/sub1300/AddingDigits.cpp.o: ../sub1300/AddingDigits.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lucasmoreno/CLionProjects/Competitiva/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Competitiva.dir/sub1300/AddingDigits.cpp.o"
+	/usr/lib64/ccache/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Competitiva.dir/sub1300/AddingDigits.cpp.o -c /home/lucasmoreno/CLionProjects/Competitiva/sub1300/AddingDigits.cpp
 
-CMakeFiles/Competitiva.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitiva.dir/main.cpp.i"
-	/usr/lib64/ccache/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lucasmoreno/CLionProjects/Competitiva/main.cpp > CMakeFiles/Competitiva.dir/main.cpp.i
+CMakeFiles/Competitiva.dir/sub1300/AddingDigits.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Competitiva.dir/sub1300/AddingDigits.cpp.i"
+	/usr/lib64/ccache/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lucasmoreno/CLionProjects/Competitiva/sub1300/AddingDigits.cpp > CMakeFiles/Competitiva.dir/sub1300/AddingDigits.cpp.i
 
-CMakeFiles/Competitiva.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitiva.dir/main.cpp.s"
-	/usr/lib64/ccache/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lucasmoreno/CLionProjects/Competitiva/main.cpp -o CMakeFiles/Competitiva.dir/main.cpp.s
+CMakeFiles/Competitiva.dir/sub1300/AddingDigits.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Competitiva.dir/sub1300/AddingDigits.cpp.s"
+	/usr/lib64/ccache/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lucasmoreno/CLionProjects/Competitiva/sub1300/AddingDigits.cpp -o CMakeFiles/Competitiva.dir/sub1300/AddingDigits.cpp.s
 
 # Object files for target Competitiva
 Competitiva_OBJECTS = \
-"CMakeFiles/Competitiva.dir/main.cpp.o"
+"CMakeFiles/Competitiva.dir/sub1300/AddingDigits.cpp.o"
 
 # External object files for target Competitiva
 Competitiva_EXTERNAL_OBJECTS =
 
-Competitiva: CMakeFiles/Competitiva.dir/main.cpp.o
+Competitiva: CMakeFiles/Competitiva.dir/sub1300/AddingDigits.cpp.o
 Competitiva: CMakeFiles/Competitiva.dir/build.make
 Competitiva: CMakeFiles/Competitiva.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/lucasmoreno/CLionProjects/Competitiva/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Competitiva"

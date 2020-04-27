@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/lucasmoreno/CLionProjects/Competitiva/main.cpp">
+		<Unit filename="/home/lucasmoreno/CLionProjects/Competitiva/sub1300/AddingDigits.cpp">
 			<Option target="Competitiva"/>
 		</Unit>
 		<Unit filename="/home/lucasmoreno/CLionProjects/Competitiva/CMakeLists.txt">

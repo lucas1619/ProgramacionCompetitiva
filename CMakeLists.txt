@@ -3,4 +3,4 @@ project(Competitiva)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Competitiva main.cpp)
+add_executable(Competitiva sub1300/AddingDigits.cpp)

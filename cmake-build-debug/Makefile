@@ -123,32 +123,32 @@ Competitiva/fast:
 	$(MAKE) -f CMakeFiles/Competitiva.dir/build.make CMakeFiles/Competitiva.dir/build
 .PHONY : Competitiva/fast
 
-main.o: main.cpp.o
+sub1300/AddingDigits.o: sub1300/AddingDigits.cpp.o
 
-.PHONY : main.o
+.PHONY : sub1300/AddingDigits.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/Competitiva.dir/build.make CMakeFiles/Competitiva.dir/main.cpp.o
-.PHONY : main.cpp.o
+sub1300/AddingDigits.cpp.o:
+	$(MAKE) -f CMakeFiles/Competitiva.dir/build.make CMakeFiles/Competitiva.dir/sub1300/AddingDigits.cpp.o
+.PHONY : sub1300/AddingDigits.cpp.o
 
-main.i: main.cpp.i
+sub1300/AddingDigits.i: sub1300/AddingDigits.cpp.i
 
-.PHONY : main.i
+.PHONY : sub1300/AddingDigits.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/Competitiva.dir/build.make CMakeFiles/Competitiva.dir/main.cpp.i
-.PHONY : main.cpp.i
+sub1300/AddingDigits.cpp.i:
+	$(MAKE) -f CMakeFiles/Competitiva.dir/build.make CMakeFiles/Competitiva.dir/sub1300/AddingDigits.cpp.i
+.PHONY : sub1300/AddingDigits.cpp.i
 
-main.s: main.cpp.s
+sub1300/AddingDigits.s: sub1300/AddingDigits.cpp.s
 
-.PHONY : main.s
+.PHONY : sub1300/AddingDigits.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/Competitiva.dir/build.make CMakeFiles/Competitiva.dir/main.cpp.s
-.PHONY : main.cpp.s
+sub1300/AddingDigits.cpp.s:
+	$(MAKE) -f CMakeFiles/Competitiva.dir/build.make CMakeFiles/Competitiva.dir/sub1300/AddingDigits.cpp.s
+.PHONY : sub1300/AddingDigits.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Competitiva"
 	@echo "... edit_cache"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... sub1300/AddingDigits.o"
+	@echo "... sub1300/AddingDigits.i"
+	@echo "... sub1300/AddingDigits.s"
 .PHONY : help
 
 

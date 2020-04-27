@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Competitiva.dir/main.cpp.o"
+  "CMakeFiles/Competitiva.dir/sub1300/AddingDigits.cpp.o"
   "Competitiva"
   "Competitiva.pdb"
 )
