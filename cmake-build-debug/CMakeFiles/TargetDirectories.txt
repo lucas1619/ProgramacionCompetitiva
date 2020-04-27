@@ -1,0 +1,3 @@
+/home/lucasmoreno/CLionProjects/Competitiva/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lucasmoreno/CLionProjects/Competitiva/cmake-build-debug/CMakeFiles/Competitiva.dir
+/home/lucasmoreno/CLionProjects/Competitiva/cmake-build-debug/CMakeFiles/edit_cache.dir
